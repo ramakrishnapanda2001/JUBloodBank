@@ -40,7 +40,7 @@
         android:textColorHint="#BEFB1212"
         app:boxStrokeColor="#FF0000">
 
-        <!--this is the actual edit text which takes the input-->
+       
         <com.google.android.material.textfield.TextInputEditText
             android:id="@+id/Name"
 
@@ -62,7 +62,7 @@
         android:textColorHint="#BEFB1212"
         app:boxStrokeColor="#FF0000">
 
-        <!--this is the actual edit text which takes the input-->
+        
         <com.google.android.material.textfield.TextInputEditText
             android:id="@+id/PhoneNumber"
             android:layout_width="match_parent"
